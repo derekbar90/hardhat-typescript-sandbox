@@ -1,0 +1,9 @@
+node_modules
+
+#Hardhat files
+cache
+artifacts
+
+# VS Code History Plugin
+
+.history
