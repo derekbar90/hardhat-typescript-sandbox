@@ -7,3 +7,5 @@ artifacts
 # VS Code History Plugin
 
 .history
+deployments/
+.env
